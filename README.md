@@ -29,8 +29,8 @@
 
 ## 🚀 Featured Projects
 
-1. **[Project Name]** - Short description (Tech used) [Demo](#) | [Code](#)
-2. **[Project Name]** - Short description (Tech used) [Demo](#) | [Code](#)
+1. **[VakitApp]** - [Demo](https://vakit-app-fyvgunes-projects.vercel.app/)
+2. **[WorkPlaceMap]** - [Demo](https://workplace-map.vercel.app/)
 
 ## 📚 Latest Blog Posts
 

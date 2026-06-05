@@ -108,7 +108,16 @@ motto:     "Clean code, great UX, ship fast."
 
 ### ✍️ Latest on Medium
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Scss nedir? Nasıl kullanılır?](https://medium.com/@veysel.gunes36/scss-nedir-nas%C4%B1l-kullan%C4%B1l%C4%B1r-eb7382b579ac?source=rss-5f66e2fae1a9------2) <sub>(
+03 2929 2021)</sub>
+- [Neden git ve github kullanmalıyız!](https://medium.com/kodcular/neden-git-ve-github-kullanmal%C4%B1y%C4%B1z-dfafadfc74a6?source=rss-5f66e2fae1a9------2) <sub>(
+05 3232 2020)</sub>
+- [AspNet Core Mvc De Mail gönderme işlemi](https://medium.com/@veysel.gunes36/aspnet-core-mvc-de-mail-g%C3%B6nderme-i%C5%9Flemi-a6c697f66b90?source=rss-5f66e2fae1a9------2) <sub>(
+28 3030 2020)</sub>
+- [ASP.NET’Te Giriş sayfası oluşturma ve giriş işlemleri gerçekleştirmek](https://medium.com/@veysel.gunes36/asp-nette-giri%C5%9F-sayfas%C4%B1-olu%C5%9Fturma-ve-giri%C5%9F-i%C5%9Flemleri-ger%C3%A7ekle%C5%9Ftirmek-cc506e7a4474?source=rss-5f66e2fae1a9------2) <sub>(
+14 011 2020)</sub>
+- [C# Yığın/Yığıt &lpar;Stack&rpar; Kullanımı](https://medium.com/kodcular/c-y%C4%B1%C4%9F%C4%B1n-y%C4%B1%C4%9F%C4%B1t-stack-kullan%C4%B1m%C4%B1-22c9724eb09d?source=rss-5f66e2fae1a9------2) <sub>(
+12 055 2020)</sub>
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 Yukarıdaki liste her 12 saatte bir Medium'dan otomatik güncellenir. Tüm yazılar 👉 [@veysel.gunes36](https://medium.com/@veysel.gunes36)

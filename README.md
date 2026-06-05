@@ -77,16 +77,16 @@ motto:     "Clean code, great UX, ship fast."
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FYvgunes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FYvgunes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="top langs"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FYvgunes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FYvgunes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FYvgunes&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=FYvgunes&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FYvgunes&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy-orcin.vercel.app/?username=FYvgunes&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
 </p>
 
 <p align="center">

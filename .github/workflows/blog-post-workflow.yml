@@ -23,8 +23,7 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@veysel.gunes36"
           max_post_count: 5
-          template: "- [$title]($url) <sub>($newline$date)</sub>$newline"
-          date_format: "dd MMM yyyy"
+          template: "- [$title]($url)$newline"
           commit_message: "chore: update latest Medium posts"
           committer_username: "FYvgunes"
           committer_email: "Veysel.gunes36@gmail.com"

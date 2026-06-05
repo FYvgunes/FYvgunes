@@ -1,0 +1,30 @@
+name: Latest Medium Posts
+
+# Medium yazılarını README'ye otomatik çeker.
+on:
+  schedule:
+    # Her 12 saatte bir çalışır (UTC)
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Actions sekmesinden manuel tetikleme
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@veysel.gunes36"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>($newline$date)</sub>$newline"
+          date_format: "dd MMM yyyy"
+          commit_message: "chore: update latest Medium posts"
+          committer_username: "FYvgunes"
+          committer_email: "Veysel.gunes36@gmail.com"

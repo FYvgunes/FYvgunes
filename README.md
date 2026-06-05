@@ -15,7 +15,7 @@
   <a href="https://www.veyselgunes.site/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Website"/></a>
   <a href="https://medium.com/@veysel.gunes36"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://x.com/Veyselsanny"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.linkedin.com/in/veyselgunes"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/veysel-g%C3%BCne%C5%9F-bb0595152/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
   <a href="mailto:Veysel.gunes36@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
 </p>
 
@@ -109,8 +109,9 @@ motto:     "Clean code, great UX, ship fast."
 ### ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-📝 [@veysel.gunes36 üzerindeki son yazılarım için tıkla](https://medium.com/@veysel.gunes36)
 <!-- BLOG-POST-LIST:END -->
+
+> 🔄 Yukarıdaki liste her 12 saatte bir Medium'dan otomatik güncellenir. Tüm yazılar 👉 [@veysel.gunes36](https://medium.com/@veysel.gunes36)
 
 ---
 
